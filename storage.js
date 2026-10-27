@@ -5,8 +5,8 @@
  */
 
 const DEFAULT_SUPABASE_CONFIG = {
-        url: 'https://oxincaeskgjtnrwqdbwy.supabase.co',
-        key: 'sb_publishable_5y6fzSvr9P9r1lRZJdEW_Q_P0qC-lZ5'
+                url: 'https://uqfdyppzddqrocghnrld.supabase.co',
+                key: 'sb_publishable_GPuEYaUZGoreJdPEz-KTXw_pDQ7_U81'
 };
 const DB_NAME = 'Warehouse5R_DB';
 const DB_VERSION = 1;
